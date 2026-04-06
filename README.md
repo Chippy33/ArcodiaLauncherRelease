@@ -5,11 +5,20 @@ Welcome to the Arcodia Launcher! This guide will help you get started with conne
 ---
 
 ## Before Anything Else
+## Install Ultima Online Classic
+1. Go to https://uo.com/client-download/.
+2. Download the classic client. Enhanced may work as well, but not tested.
+3. Install the classic client.
+4. Run the patcher after install. - Nothing will work if you skip this step. Patcher is called UOPatch.exe and is located in the Utima Online Classic Folder. Let this run to completion.
 
+## Get Our Launcher
 1. Go to https://github.com/Chippy33/ArcodiaLauncherRelease/releases/latest
 2. Download the latest release
 3. Extract to a folder
 4. Run `ArcodiaLauncher.exe`
+
+
+
 
 ---
 

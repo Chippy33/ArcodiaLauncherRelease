@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<releases> 
+  <release version="1.0.0" name="Initial Release"> 
+    <files>
+		<file filename="Body.def" hash="97B0744AC6D69FFFFC1D0CF6B60B7475" />
+		<file filename="Cliloc.enu" hash="2AD56A563FEBC7D0AB0B18412869E793" />
+		<file filename="hues.mul" hash="67BDAA128D9C0BD7A506E075642A1313" />
+		<file filename="MultiCollection.uop" hash="8A02206900F6F1F3371F19AA2C2B505F" />
+		<file filename="ClassicUOLauncher.exe" hash="B2032BD7EDA2378CE44643ACE25E81B4"/>
+    </files> 
+  </release> 
+</releases> 

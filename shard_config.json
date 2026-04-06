@@ -1,8 +1,8 @@
 {
   "shard_name": "Arcodia Reborn",
   "shard_description": "A custom UO shard",
-  "manifest_url": "http://85.31.234.56:7055/manifest.xml",
-  "download_base_url": "http://85.31.234.56:7055/",
+  "manifest_url": "https://raw.githubusercontent.com/Chippy33/ArcodiaLauncherRelease/main/manifest.xml",
+  "download_base_url": "https://raw.githubusercontent.com/Chippy33/ArcodiaLauncherRelease/main/CurrentRelease",
   "client_executable": "ClassicUOLauncher.exe",
   "client_working_directory": null,
   "server_address": "85.31.234.56",
