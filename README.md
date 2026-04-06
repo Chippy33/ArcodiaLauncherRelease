@@ -4,6 +4,17 @@ Welcome to the Arcodia Launcher! This guide will help you get started with conne
 
 ---
 
+## Before Anything Else
+
+1. Go to https://github.com/Chippy33/ArcodiaLauncherRelease/releases/latest
+2. Download the latest release
+3. Extract to a folder
+4. Run `ArcodiaLauncher.exe`
+
+---
+
+![Alt Text](Launcher.png)
+
 ## First Time Setup
 
 ### Step 1: Select Your Ultima Online Directory
