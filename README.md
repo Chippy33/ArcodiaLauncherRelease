@@ -13,7 +13,7 @@ Welcome to the Arcodia Launcher! This guide will help you get started with conne
 
 ---
 
-![Alt Text](Launcher.png)
+![Launcher Image](Launcher.png)
 
 ## First Time Setup
 
